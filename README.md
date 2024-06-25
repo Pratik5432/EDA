@@ -1,27 +1,25 @@
-Use the five whys for root cause analysis
+#Use the five whys for root cause analysis
+
 Recently, you’ve been learning why business solutions almost always require some data detective work. This is one way critical thinking helps data professionals determine the right questions to ask in order to arrive at those solutions. One very common question is, “What is the root cause of the problem?” A root cause is the reason why a problem occurs. So, by identifying and eliminating the root cause, data professionals can help stop that problem from occurring again. 
 
 The five whys is a simple but effective technique for identifying a root cause. It involves asking "Why?" repeatedly until the answer reveals itself. This often happens at the fifth “why,” but sometimes you’ll need to continue asking more times, sometimes fewer.
 
-Boost customer service
+Eg: Boost customer service
 An online grocery store was receiving numerous customer service complaints about poor deliveries. To address this problem, a data analyst at the company asked their first “why?”
 
 Why #1. “Customers are complaining about poor grocery deliveries. Why?”
-
 The data analyst began by reviewing the customer feedback more closely. They noted the vast majority of complaints dealt with products arriving damaged. So, they asked “why?” again.
 
 Why #2. “Products are arriving damaged. Why?”
-
 To answer this question, the data analyst continued exploring the customer feedback. It turned out that many customers said products were not packaged properly.
 
 Why #3. “Products are not packaged properly. Why?”
-
 After asking their third “why,” the data analyst did some further detective work. They ultimately learned that their company’s grocery packers were not adequately trained on packing procedures.
 
 Why #4. “Grocery packers are not adequately trained. Why?”
-
 This “why” enabled the data analyst to uncover that nearly 35% of all packers were new to the company. They had not yet had the chance to complete all required training, yet they were already being asked to pack groceries for customer orders.
 
 Why #5. “Packers have not completed required training. Why?”
-
 This final “why?” led the data analyst to find out that the human resources department had not provided necessary training to any newly hired packers. This was because HR was in the middle of reworking the training program. Rather than training new hires using the old system, they had provided them with a quick one-page guide, which was insufficient. 
+
+So, in this example, the root cause of the problem was that HR had not completed the training program updates and was using a less-thorough guide to train new packers. Fortunately, this was a problem that the grocer could control. And thanks to the data analyst’s work, they provided more support to the HR department to complete the training and retrain all newly hired grocery packers!
