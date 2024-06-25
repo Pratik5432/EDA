@@ -1,4 +1,4 @@
-#Use the five whys for root cause analysis
+# Use the five whys for root cause analysis
 
 Recently, you’ve been learning why business solutions almost always require some data detective work. This is one way critical thinking helps data professionals determine the right questions to ask in order to arrive at those solutions. One very common question is, “What is the root cause of the problem?” A root cause is the reason why a problem occurs. So, by identifying and eliminating the root cause, data professionals can help stop that problem from occurring again. 
 
